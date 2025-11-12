@@ -24,13 +24,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Priyanka Jannu"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  location         : "Frankfurt, Germany"
+  #employer         : ""
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "jannu.prriyank@outlook.com" 
 
   # Academic websites
   academia         : # URL
@@ -61,9 +61,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "priyanka._.prakash"
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "www.linkedin.com/in/priyanka-jannu"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
